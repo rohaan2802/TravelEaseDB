@@ -1,0 +1,3 @@
+ReviewID,BookingID,Rating,Comment,ReviewDate,ApproveStatus
+1,1276,4,"Amazing experience!","2025-05-13",0
+2,1277,5,"Loved the cultural insights","2025-05-13",1

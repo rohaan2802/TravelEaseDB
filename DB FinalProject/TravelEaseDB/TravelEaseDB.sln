@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelEaseDB", "TravelEaseDB.csproj", "{070A06EB-2E81-4D71-8237-031F4B32B781}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{070A06EB-2E81-4D71-8237-031F4B32B781}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{070A06EB-2E81-4D71-8237-031F4B32B781}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{070A06EB-2E81-4D71-8237-031F4B32B781}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{070A06EB-2E81-4D71-8237-031F4B32B781}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04EB06A5-3ACD-4257-9129-DF07871577D6}
+	EndGlobalSection
+EndGlobal

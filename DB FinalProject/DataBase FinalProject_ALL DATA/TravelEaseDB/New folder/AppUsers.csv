@@ -1,0 +1,6 @@
+UserID,UserName,UserPassword,ContactNumber,Email,UserRole,CreatedAt,UserStatus
+100,"john_trav","hashedpass123","03001234567","john@example.com","Traveler","2025-05-13 14:00:00",0
+105,"alice_admin","securepass456","03111234567","alice@admin.com","Admin","2025-05-13 14:01:00",1
+110,"bob_tour","tourpass789","03221234567","bob@tour.com","TourOperator","2025-05-13 14:02:00",0
+115,"emma_prov","providerpass101","03331234567","emma@provider.com","ServiceProvider","2025-05-13 14:03:00",1
+120,"sarah_trav","travelpass202","03441234567","sarah@example.com","Traveler","2025-05-13 14:04:00",0
